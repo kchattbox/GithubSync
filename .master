@@ -1,1 +1,3 @@
-
+[Files]
+.bashrc -> ~/.bashrc - HH:MM:SS/MM:DD:YYYY
+.vimrc -> ~/.vimrc - HH:MM:SS/MM:DD:YYYY
