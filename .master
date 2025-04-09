@@ -1,7 +1,2 @@
-[Files]
-.master -> ~/Desktop/School/GitHubSync/.master
-.bashrc -> ~/.bashrc - HH:MM:SS/MM:DD:YYYY
-.vimrc -> ~/.vimrc - HH:MM:SS/MM:DD:YYYY
-temp.txt -> ~/Desktop/School/GitHubSync/temp/temp.txt
-niceguy.txt -> ~/Desktop/School/GitHubSync/niceguy.txt - 
-niceguy.txt -> ~/Desktop/School/GitHubSync/niceguy.txt - 
+[FILES]
+.master -> /home/kchatt/.master - 
